@@ -1,13 +1,17 @@
 ## Hi there 👋
+예술공학부 24학번 김민재 01086879474
+
 안녕하세요 김민재입니다.
 
 코딩을 배우고 있는 초보자입니다.
+
+아직 진행 해본 프로젝트는 없습니다.
 
 코딩 잘 하고 싶습니다.
 
 학교 다니기 힘들어요.......
 
-![Static Badge](https://img.shields.io/badge/-%20?style=flat-square&logo=gmail&logoColor=red&logoSize=small&label=Gmail&labelColor=white&color=white&cacheSeconds=3600&link=minjaekimsamgmoon2005%40gmail.com)
+![Static Badge](https://img.shields.io/badge/-%20?style=flat-square&logo=Gmail&logoColor=red&label=Gmail&labelColor=white&color=white&link=minjaekimsamgmoon2005%40gmail.com)
 
 <!--
 **mjk2005/mjk2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
