@@ -11,7 +11,7 @@
 
 학교 다니기 힘들어요.......
 
-![Static Badge](https://img.shields.io/badge/-%20?style=flat-square&logo=Gmail&logoColor=red&label=Gmail&labelColor=white&color=white&link=minjaekimsamgmoon2005%40gmail.com)
+![Static Badge](https://img.shields.io/badge/-%20?style=flat-square&logo=Gmail&logoColor=red&label=Gmail&labelColor=white&color=white&link=%3Cobject%3Eminjaekimsamgmoon2005%40gmail.com)
 
 <!--
 **mjk2005/mjk2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
