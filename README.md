@@ -11,7 +11,7 @@
 
 학교 다니기 힘들어요.......
 
-![Static Badge](https://img.shields.io/badge/-%20?style=flat-square&logo=Gmail&logoColor=red&label=Gmail&labelColor=white&color=white&link=%3Cobject%3Eminjaekimsamgmoon2005%40gmail.com)
+![Static Badge](https://img.shields.io/badge/-%20?style=flat-square&logo=Gmail&logoColor=red&label=Gmail&labelColor=white&color=white&link=https%3A%2F%2Fminjaekimsamgmoon2005%40gmail.com)
 
 
 <a href="https://github.com/devxb/gitanimals">
