@@ -3,13 +3,13 @@
 
 안녕하세요 김민재입니다.
 
+ 
+
 코딩을 배우고 있는 초보자입니다.
 
 아직 진행 해본 프로젝트는 없습니다.
 
 코딩 잘 하고 싶습니다.
-
-학교 다니기 힘들어요.......
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjaekimsamgmoon2005@gmail.com)](mailto:minjaekimsamgmoon2005@gmail.com)
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EA%B9%80%EB%AF%BC%EC%9E%AC-h4t)](https://www.youtube.com/@%EA%B9%80%EB%AF%BC%EC%9E%AC-h4t)
