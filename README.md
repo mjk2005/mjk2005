@@ -12,7 +12,6 @@
 학교 다니기 힘들어요.......
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minjaekimsamgmoon2005@gmail.com)](mailto:minjaekimsamgmoon2005@gmail.com)
- 
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EA%B9%80%EB%AF%BC%EC%9E%AC-h4t)](https://www.youtube.com/@%EA%B9%80%EB%AF%BC%EC%9E%AC-h4t)
 
 <a href="https://github.com/devxb/gitanimals">
